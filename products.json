@@ -1,0 +1,92 @@
+[
+    {
+        "_id": 1,
+        "title": "Monitor Gamer LG 26 IPS, Ultra Wide, 75Hz, Full HD",
+        "desc": "Veja mais e faça mais nesta tela UltraWide Full HD (2560x1080), você pode realizar várias tarefas com eficiência, sem alternar entre os programas.",
+        "make": "LG",
+        "price": 999.99,
+        "category": "Computadores",
+        "image": "monitor-gamer-lg-26-ips-ultra-wide.jpg"
+    },
+    {
+        "_id": 2,
+        "title": "Console Sony Playstation 5",
+        "desc": "PlayStation®5: O console PS5™ oferece novas possibilidades de jogabilidade que você nunca imaginou. Reproduza jogos para PS5 e PS4 em Blu-ray Disc. Além disso, você também pode baixar jogos digitais para PS5 e PS4 pela PlayStation Store. Experimente o carregamento extremamente rápido do SSD de ultra-velocidade, uma imersão mais profunda com suporte à resposta tátil, gatilhos adaptáveis e áudio 3D. Além de uma geração totalmente nova de jogos incríveis PlayStation®.",
+        "make": "Sony",
+        "price": 4750.00,
+        "category": "Jogos",
+        "image": "console-sony-playstation-5.jpg"
+    },
+    {
+        "_id": 3,
+        "title": "Smart TV Samsung 50 Polegadas UHD 4K, 3 HDMI, 1 USB, Processador Crystal 4K",
+        "desc": "O processador Crystal 4K transforma tudo o que você assiste em resolução próxima à 4K. Todos os produtos UHD 4K da Samsung são certificados pela CEA (Consumer Eletronics Association) e DE (Digital Europe). Estas entidades estabeleceram critérios mínimos para certificar um produto como o UHD 4K, entre eles, garantir que o produto tenha em cada pixel a capacidade de reproduzir todas as cores. A experiência pode variar de acordo com tipo e formato do conteúdo. O fim da bagunça e confusão de cabos aparentes com uma solução de canaletas exclusiva que permite organizar os fios e escondê-los.",
+        "price": 2499.99,
+        "make": "Samsung",
+        "category": "TV",
+        "image": "smart-tv-samsung-50-polegadas-uhd-4k.jpg"
+    },
+    {
+        "_id": 4,
+        "title": "Mouse Gamer Redragon Cobra, Chroma RGB, 12400DPI, 7 Botões",
+        "desc": "O mouse mais vendido da redragon alia uma pegada universalmente amada por jogadores e uma precisão ímpar à já conhecida bela iluminação chroma MK I da redragon.",
+        "make": "Redragon",
+        "price": 110.99,
+        "category": "Periféricos",
+        "image": "mouse-gamer-redragon-cobra.jpg"
+    },
+    {
+        "_id": 5,
+        "title": "Cadeira Gamer Husky Gaming Tempest 700",
+        "desc": "Tenha horas incríveis desfrutando seu gameplay de maneira confortável e aconchegante! Feito com espuma de altíssima densidade e PU, a Cadeira Husky Gaming Tempest 700 possui descanso para os pés, ideal para aquela pausa entre um jogo e outro! Além do design moderno e robusto, a cadeira proporciona ótima performance nas partidas devido a sensação de conforto que é convertida em foco e concentração, tudo que um gamer de verdade precisa para ser o melhor!",
+        "make": "Husky",
+        "price": 999.99,
+        "category": "Cadeiras",
+        "image": "cadeira-gamer-tempest-husky-gaming.jpg"
+    },
+    {
+        "_id": 6,
+        "title": "Volante Logitech G29 Driving Force",
+        "desc": "Desenhado de forma impecável para uma experiência perfeita ao volante, o G29 eleva os jogos de corridas mais recentes ao nível mais alto. Apresenta Force Feedback com motor duplo e embreagem helicoidal, permitindo uma direção suave e silenciosa. O câmbio de aço inoxidável e os LEDs indicadores de RPM/marcha ajudam a fazer trocas de marcha precisas e fluidas sem tirar os olhos da pista.",
+        "make": "Logitech",
+        "price": 1299.99,
+        "category": "Peiféricos",
+        "image": "volante-logitech-g29-driving-force.jpg"
+    },
+    {
+        "_id": 7,
+        "title": "Headset Sem Fio Gamer HyperX Cloud II Som Surround 7.1",
+        "desc": "O HyperX Cloud foi criado para ser um headset gamer ultraconfortável com um som espetacular. Pensamos muito nos detalhes, como nossa espuma memory foam exclusiva HyperX, o material sintético premium, a força de aperto do arco da cabeça reduzida e o peso equilibrado para criar um headset que fosse confortável para longas sessões de jogo. Não é de se admirar que ele tenha se tornado o headset preferido de milhões de gamers. Queira você se concentrar na competição ou relaxar com alguns dos seus jogos favoritos, há sempre um Cloud perfeito para você.",
+        "make": "HyperX",
+        "price": 799.99,
+        "category": "Periféricos",
+        "image": "headset-sem-fio-gamer-hyperx-cloud-ii-7-1.jpg"
+    },
+    {
+        "_id": 8,
+        "title": "Smartphone Samsung Galaxy A13, 4GB RAM, 128GB",
+        "desc": "Conheça o novo Galaxy A13 da Samsung! Com 128GB de memória e capacidade de Cartão de Memória de 1TB, é ideal para as tarefas do dia a dia. Possui uma execelente bateria de 5000mAh que é compatível com carregamento rápido, permitindo que você gaste seu tempo com o que mais gosta e se preocupe menos com a vida útil da bateria. O A13 ainda é equipado com Memória RAM de 4GB e Processador Octa-Core para melhor desempenho do seu smartphone.",
+        "make": "Samsung",
+        "price": 989.99,
+        "category": "Celulares",
+        "image": "smartphone-samsung-galaxy-a13-4gb-ram-128gb.jpg"
+    },
+    {
+        "_id": 9,
+        "title": "Drone Multi Eagle, FPV, Flips em 360°",
+        "desc": "Voe alto com o drone Multilaser Eagle. Com uma autonomia de 14 minutos de voo faça manobras incríveis no ar e gravações em HD do que você quiser. O alcance de ate 80 metros possibilita a você explorar ambientes de uma perspectiva totalmente diferente. Com um design bonito e protetores para as hélices, divirta-se com uma proteção extra contra colisões e acidentes.",
+        "make": "Multilaser",
+        "price": 489.99,
+        "category": "Drones",
+        "image": "drone-multilaser-eagle-fpv-flips-em-360.jpg"
+    },
+    {
+        "_id": 10,
+        "title": "Placa de Vídeo RX 580 PowerColor Red Dragon AMD Radeon, 8GB GDDR5",
+        "desc": "Refinado, evoluído e totalmente equipado. Ele é baseado na mais recente arquitetura GCN 4 da AMD projetada para GloFo 14nm FinFET que oferece capacidade de VR premium, maior nível de desempenho, VR suave, suporte contínuo para monitores de jogos de última geração e streaming ou gravação de jogos sem CPU.",
+        "make": "AMD",
+        "price": 1299.99,
+        "category": "Hardware",
+        "image": "placa-de-video-powercolor-red-dragon-amd-radeon-rx-580-8gb-gddr5.jpg"
+    }
+]
