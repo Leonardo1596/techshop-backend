@@ -39,7 +39,7 @@
         "_id": 5,
         "title": "Cadeira Gamer Husky Gaming Tempest 700",
         "desc": "Tenha horas incríveis desfrutando seu gameplay de maneira confortável e aconchegante! Feito com espuma de altíssima densidade e PU, a Cadeira Husky Gaming Tempest 700 possui descanso para os pés, ideal para aquela pausa entre um jogo e outro! Além do design moderno e robusto, a cadeira proporciona ótima performance nas partidas devido a sensação de conforto que é convertida em foco e concentração, tudo que um gamer de verdade precisa para ser o melhor!",
-        "make": "Husky",
+        "make": "Husky Gaming",
         "price": 999.99,
         "category": "Cadeiras",
         "image": "cadeira-gamer-tempest-husky-gaming.jpg"
@@ -88,5 +88,77 @@
         "price": 1299.99,
         "category": "Hardware",
         "image": "placa-de-video-powercolor-red-dragon-amd-radeon-rx-580-8gb-gddr5.jpg"
+    },
+    {
+        "_id": 11,
+        "title": "Processador Intel Core i5-10400, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, LGA 1200",
+        "desc": "Processador Intel Core i5-10400. Os novos processadores Intel Core da 10ª Geração oferecem atualizações de desempenho incríveis para melhorar a produtividade e proporcionar entretenimento surpreendente, Intel Wi-Fi 6 (Gig) tecnologia, HDR 4K, otimização de sistema inteligentes e muito mais.",
+        "make": "Intel",
+        "price": 1259.99,
+        "category": "Hardware",
+        "image": "processador-intel-core-i5-10400.jpg"
+    },
+    {
+        "_id": 12,
+        "title": "Console Microsoft Xbox Series S, 512GB, Branco",
+        "desc": "Xbox Series S, o menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital. Retrocompatibilidade com milhares de jogos. Prepare-se para tempos de carregamento mais rápidos, resolução mais alta, taxas de quadros mais estáveis e melhor latência de entrada em milhares de jogos Xbox One, Xbox 360 e Xbox Original.",
+        "make": "Microsoft",
+        "price": 1999.99,
+        "category": "Jogos",
+        "image": "console-microsoft-xbox-series-s-500gb.jpg"
+    },
+    {
+        "_id": 13,
+        "title": "Smart TV Samsung 50 Polegadas 4K QLED, HDMI, USB, Modo Game, Processador IA, Pontos Quânticos, Alexa Google Assistant, Preto",
+        "desc": "Tecnologia de Pontos Quânticos - 100% de volume de cor. Desfrute do máximo da qualidade de imagem em 4K, com 1 bilhão de cores vibrantes por muito mais tempo.",
+        "make": "Samsung",
+        "price": 3299.99,
+        "category": "TV",
+        "image": "smart-tv-50-4k-qled-samsung.jpg"
+    },
+    {
+        "_id": 14,
+        "title": "Placa de Vídeo RTX 3060 Ti DUAL O8G V2 Asus NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, LHR, Ray Tracing",
+        "desc": "Placa de Vídeo Asus NVIDIA GeForce DUAL RTX 3060 Ti O8G V2. Para os gamers mais exigentes, a placa de vídeo ASUS Dual GeForce RTX™ 3060 Ti oferece a mais recente experiência de arquitetura NVIDIA Ampere, combinando desempenho e simplicidade como nenhuma outra. Ela utiliza tecnologias avançadas de refrigeração derivadas de placas de vídeo de ponta, sendo a escolha perfeita para uma construção bem balanceada do seu PC Gamer.",
+        "make": "Nvidia",
+        "price": 3608.99,
+        "category": "Hardware",
+        "image": "placa-de-video-asus-dual-nvidia-geforce-rtx-3060-ti-v2-oc-edition-14-gbps-8gb-gddr6.jpg"
+    },
+    {
+        "_id": 15,
+        "title": "Memória Gamer Husky Gaming, 8GB, 2666MHz, DDR4, CL19",
+        "desc": "Chegue ao próximo nível em desempenho com o seu computador gamer com a Memória Gamer Husky Gaming. Em busca do minimalismo e da simplicidade, a memória Gamer Husky é extremamente fina e leve ideal para os gabinetes menores ou qualquer sistema com pouco espaço interno. Seu design em preto combina com todo o seu setup, independente do seu estilo.",
+        "make": "Husky Gaming",
+        "price": 139.99,
+        "category": "Hardware",
+        "image": "memoria-husky-8gb.jpg"
+    },
+    {
+        "_id": 16,
+        "title": "Teclado Mecânico Gamer HyperX Alloy MKW100, RGB, Switch Red, Full Size, Layout US",
+        "desc": "Obtenha uma iluminação radiante e por tecla com efeitos dinâmicos para adicionar um toque de estilo ao seu setup de PC.",
+        "make": "HyperX",
+        "price": 249.99,
+        "category": "Periféricos",
+        "image": "teclado-mecanico-gamer-hyperx.jpg"
+    },
+    {
+        "_id": 17,
+        "title": "Mouse Gamer Logitech G403 HERO com RGB LIGHTSYNC",
+        "desc": "Projetado para conforto, o G403 possui empunhaduras de borracha em seu redor para controle adicional. O sensor HERO 25K permite rastrear em nível submicrométrico. O LIGHTSYNC RGB de espectro completo e seis botões programáveis colocam você no controle",
+        "make": "Logitech",
+        "price": 169.99,
+        "category": "Periféricos",
+        "image": "mouse-gamer-logitech-g403.jpg"
+    },
+    {
+        "_id": 18,
+        "title": "Mouse Gamer Multi Gunter, LED Rainbow, 6400 DPI, 6 Botões",
+        "desc": "Mouse Gamer Multi Gunter Possui conector banhado a ouro e cabo de 1,8m com malha de nylon, além de 6 botões configuráveis por software.",
+        "make": "Multilaser",
+        "price": 29.99,
+        "category": "Periféricos",
+        "image": "mouse-gamer-warrior-gunter.jpg"
     }
 ]
