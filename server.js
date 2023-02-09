@@ -16,6 +16,7 @@ const routeAuth = require('./routes/auth');
 const routeCart = require('./routes/cart');
 const routeProducts = require('./routes/products');
 const routeFindById = require('./routes/findById');
+const routeAddProduct = require('./routes/addProduct');
 
 
 app.use(express.json());
@@ -30,6 +31,7 @@ app.use(routeAuth);
 app.use(routeCart);
 app.use(routeProducts);
 app.use(routeFindById);
+app.use(routeAddProduct);
 
 
 // Route Homepage
